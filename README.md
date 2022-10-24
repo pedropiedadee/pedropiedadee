@@ -8,10 +8,8 @@
 <div>
 <a href="https://github.com/pedropiedadee">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedropiedadee&show_icons=true&theme=dracula)"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiedadee&layout=compact&theme=dracula
-  https://github.com/anuraghazra/github-readme-stats"/>
-<div />
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiedadee&layout=compact&theme=light" />
+</div>
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block">
