@@ -4,8 +4,13 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-piedade-2146b2249/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroopiedade/)
 
-![Pedro Piedade's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropiedadee&show_icons=true&theme=dracula)
-[![Pedro Piedade's](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiedadee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+<a href="https://github.com/pedropiedadee">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedropiedadee&show_icons=true&theme=dracula)"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropiedadee&layout=compact&theme=dracula
+  https://github.com/anuraghazra/github-readme-stats"/>
+<div />
 
 ## Tecnologias que eu utilizo
 
